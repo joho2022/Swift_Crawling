@@ -1,0 +1,44 @@
+Building for debugging...
+[0/2] Write swift-version--14A802CE1F81EE04.txt
+Build complete! (0.10s)
+Fetching HTML from https://news.naver.com/breakingnews/section/105/731...
+Successfully fetched HTML.
+Parsing HTML...
+Title: 갤럭시 AI 사진 기능 공개, Link: https://n.news.naver.com/mnews/article/001/0014799742, Source: 연합뉴스
+Title: 갤럭시 언팩 2024 갤럭시 버즈3 공개, Link: https://n.news.naver.com/mnews/article/421/0007655847, Source: 뉴스1
+Title: 갤럭시 AI 사진 기능 공개, Link: https://n.news.naver.com/mnews/article/001/0014799741, Source: 연합뉴스
+Title: 삼성전자, AI 기반 '구글 제미나이' 앱 공개, Link: https://n.news.naver.com/mnews/article/001/0014799739, Source: 연합뉴스
+Title: 삼성전자, AI 기반 '구글 제미나이' 앱 공개, Link: https://n.news.naver.com/mnews/article/001/0014799738, Source: 연합뉴스
+Title: 갤럭시 언팩에서 공개되는 '구글 제미나이', Link: https://n.news.naver.com/mnews/article/001/0014799737, Source: 연합뉴스
+Title: 삼성전자, AI 기반 '구글 제미나이' 앱 공개, Link: https://n.news.naver.com/mnews/article/001/0014799736, Source: 연합뉴스
+Title: 갤럭시 언팩에서 공개되는 '구글 제미나이', Link: https://n.news.naver.com/mnews/article/001/0014799735, Source: 연합뉴스
+Title: 갤럭시 언팩에서 공개되는 '구글 제미나이', Link: https://n.news.naver.com/mnews/article/001/0014799734, Source: 연합뉴스
+Title: 삼성전자, AI 기반 '구글 제미나이' 앱 공개, Link: https://n.news.naver.com/mnews/article/001/0014799733, Source: 연합뉴스
+Title: 삼성전자, AI 기반 '구글 제미나이' 앱 공개, Link: https://n.news.naver.com/mnews/article/001/0014799732, Source: 연합뉴스
+Title: 갤럭시 언팩에서 공개되는 '구글 제미나이', Link: https://n.news.naver.com/mnews/article/001/0014799731, Source: 연합뉴스
+Title: 갤럭시 언팩에서 공개되는 '구글 제미나이', Link: https://n.news.naver.com/mnews/article/001/0014799729, Source: 연합뉴스
+Title: 갤럭시 언팩에서 공개되는 '구글 제미나이', Link: https://n.news.naver.com/mnews/article/001/0014799728, Source: 연합뉴스
+Title: 갤럭시 언팩에서 공개되는 '구글 제미나이', Link: https://n.news.naver.com/mnews/article/001/0014799727, Source: 연합뉴스
+Title: 갤럭시 언팩 2024 갤럭시 Z폴드 6 공개, Link: https://n.news.naver.com/mnews/article/421/0007655839, Source: 뉴스1
+Title: 삼성 AI 공개, Link: https://n.news.naver.com/mnews/article/001/0014799725, Source: 연합뉴스
+Title: 삼성 AI 공개, Link: https://n.news.naver.com/mnews/article/001/0014799724, Source: 연합뉴스
+Title: 삼성 AI 공개, Link: https://n.news.naver.com/mnews/article/001/0014799722, Source: 연합뉴스
+Title: 삼성 AI 공개, Link: https://n.news.naver.com/mnews/article/001/0014799721, Source: 연합뉴스
+Title: 삼성 AI 공개, Link: https://n.news.naver.com/mnews/article/001/0014799720, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799719, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799718, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799717, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799716, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799715, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799714, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799713, Source: 연합뉴스
+Title: 갤럭시 언팩 2024에서 공개되는 삼성 AI, Link: https://n.news.naver.com/mnews/article/001/0014799712, Source: 연합뉴스
+Title: 갤럭시 언팩 2024 갤럭시 Z플립 6 공개, Link: https://n.news.naver.com/mnews/article/421/0007655838, Source: 뉴스1
+Title: 삼성전자, 갤럭시 Z 폴드6ㆍZ 플립6 공개, Link: https://n.news.naver.com/mnews/article/001/0014799711, Source: 연합뉴스
+Title: 삼성전자, 갤럭시 Z 폴드6ㆍZ 플립6 공개, Link: https://n.news.naver.com/mnews/article/001/0014799710, Source: 연합뉴스
+Title: 삼성전자, 갤럭시 Z 폴드6ㆍZ 플립6 공개, Link: https://n.news.naver.com/mnews/article/001/0014799709, Source: 연합뉴스
+Title: 삼성전자, 갤럭시 Z 폴드6ㆍZ 플립6 공개, Link: https://n.news.naver.com/mnews/article/001/0014799708, Source: 연합뉴스
+Title: 삼성전자, 갤럭시 Z 폴드6ㆍZ 플립6 공개, Link: https://n.news.naver.com/mnews/article/001/0014799707, Source: 연합뉴스
+Title: 삼성전자, 갤럭시 Z 폴드6ㆍZ 플립6 공개, Link: https://n.news.naver.com/mnews/article/001/0014799706, Source: 연합뉴스
+Headlines saved to /home/kai/scrap/headlines_20240710_2300.json
+All tasks completed.
