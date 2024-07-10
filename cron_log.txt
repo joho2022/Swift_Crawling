@@ -4,7 +4,7 @@ Building for debugging...
 [2/3] Emitting module Alamofire
 [4/5] Emitting module SwiftSoup
 [6/8] Emitting module Swift_Crawling
-Build complete! (1.54s)
+Build complete! (1.69s)
 Fetching HTML from https://news.naver.com/breakingnews/section/105/731...
 Successfully fetched HTML.
 Parsing HTML...
@@ -13,5 +13,5 @@ Title: 파리서 열린 ‘갤럭시 언팩 2024’… 신상품 시연해보는
 Title: 파리서 열린 ‘갤럭시 언팩 2024’… 신상 갤럭시 체험하는 참석자들, Link: https://n.news.naver.com/mnews/article/421/0007655930, Source: 뉴스1
 Title: 파리서 열린 ‘갤럭시 언팩 2024’… 전시되고 있는 갤럭시울트라, Link: https://n.news.naver.com/mnews/article/421/0007655929, Source: 뉴스1
 Title: 파리서 열린 ‘갤럭시 언팩 2024’… 신상품 시연해보는 참석자들, Link: https://n.news.naver.com/mnews/article/421/0007655928, Source: 뉴스1
-Headlines saved to /home/kai/scrap/headlines_20240711_0200.json
+Headlines saved to /home/kai/scrap/headlines_20240711_0215.json
 All tasks completed.
