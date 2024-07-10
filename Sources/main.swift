@@ -11,9 +11,7 @@ struct NewsItem: Codable {
     let source: String
 }
 
-class SlackNotifier {
-    private let slackWebhookURL = "https://hooks.slack.com/services/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"
-    
+class NewsScraper {
     private func fetchHTML(from url: String, completion: @escaping (String?) -> Void) {
         let request = AF.request(url)
         print("Fetching HTML from \(url)...")
@@ -94,7 +92,6 @@ class SlackNotifier {
             defer { dispatchGroup.leave() }
             guard let html = html else {
                 print("Failed to fetch HTML")
-                dispatchGroup.leave()
                 return
             }
             
@@ -103,9 +100,7 @@ class SlackNotifier {
                 print("Title: \(headline.title), Link: \(headline.link), Source: \(headline.source)")
             }
             
-            dispatchGroup.enter()
             self.saveToFile(data: headlines)
-            dispatchGroup.leave()
         }
         
         dispatchGroup.notify(queue: .main) {
@@ -118,5 +113,5 @@ class SlackNotifier {
     }
 }
 
-let notifier = SlackNotifier()
+let notifier = NewsScraper()
 notifier.run()
